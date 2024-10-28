@@ -1,6 +1,5 @@
 # Fifa-World-Cup-Analysis
 
-Link to my dashboard: https://app.powerbi.com/view?r=eyJrIjoiZGU2NGVjNzgtYTNmOS00ZDQ5LTg4MWEtNDc3NWE0Zjk5NGUxIiwidCI6IjQ4ZGMyNTMzLTU1OWItNDBmZC1iZDkyLTY1NmJkMTQ1ZjYyMiJ9
 
 Problem Statement:
 With FIFA is in the blood of many people of the world. You are tasked to tell the story of unsung
@@ -48,3 +47,4 @@ Stadiums in Brazil, such as Arena de Sao Paulo and Arena Fonte Nova, recorded hi
 These insights provide a holistic view of performance trends, attendance, and influential factors that impact match outcomes and team successes in the FIFA World Cup. This analysis can aid in understanding historical patterns and even predicting trends for future tournaments.
 
 📊 Check out the insights in my dashboard below! 🚀
+Link to my dashboard: https://app.powerbi.com/view?r=eyJrIjoiZGU2NGVjNzgtYTNmOS00ZDQ5LTg4MWEtNDc3NWE0Zjk5NGUxIiwidCI6IjQ4ZGMyNTMzLTU1OWItNDBmZC1iZDkyLTY1NmJkMTQ1ZjYyMiJ9
